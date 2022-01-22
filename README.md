@@ -52,6 +52,12 @@ No Activity tracked this Week
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akgupta0777&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 
 
 
