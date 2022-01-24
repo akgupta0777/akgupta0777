@@ -56,7 +56,6 @@ Markdown     36 mins         ███████▓░░░░░░░░░
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=akgupta0777&custom_title=Abhay's%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
