@@ -72,10 +72,10 @@ akgupta0777              36 mins             ██░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#260](https://github.com/anmol098/waka-readme-stats/issues/260) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. ❗️ Opened issue [#260](https://github.com/anmol098/waka-readme-stats/issues/260) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. ❗️ Opened issue [#18896](https://github.com/timburgan/timburgan/issues/18896) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. 💪 Opened PR [#15497](https://github.com/eslint/eslint/pull/15497) in [eslint/eslint](https://github.com/eslint/eslint)
-5. ❗️ Closed issue [#14094](https://github.com/microsoft/PowerToys/issues/14094) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+2. 🗣 Commented on [#260](https://github.com/anmol098/waka-readme-stats/issues/260) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+3. ❗️ Opened issue [#260](https://github.com/anmol098/waka-readme-stats/issues/260) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+4. ❗️ Opened issue [#18896](https://github.com/timburgan/timburgan/issues/18896) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+5. 💪 Opened PR [#15497](https://github.com/eslint/eslint/pull/15497) in [eslint/eslint](https://github.com/eslint/eslint)
 <!--END_SECTION:activity-->
 
 
