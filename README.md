@@ -39,30 +39,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2023%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-98%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
-🌆 Daytime    161 commits    █████████████░░░░░░░░░░░░   52.44% 
-🌃 Evening    104 commits    ████████░░░░░░░░░░░░░░░░░   33.88% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-Tuesday      39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
-Wednesday    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.77% 
-Thursday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
-Friday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-Saturday     56 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.24% 
-Sunday       64 commits     █████░░░░░░░░░░░░░░░░░░░░   20.85%
-
-```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -81,7 +60,7 @@ akgupta0777              36 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 25/01/2022 06:45:04 UTC
+ Last Updated on 25/01/2022 06:55:45 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
