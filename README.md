@@ -15,7 +15,7 @@ Hi, I'm [Abhay Gupta](https://twitter.com/akgupta0777), A passionate self-taught
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/akgupta0777/akgupta0777/blob/main/animated.gif?raw=true" width="500" height="320" />
+  <img alt="GIF" src="https://github.com/akgupta0777/akgupta0777/blob/main/animated.gif?raw=true" width="500" height="320" />
   
 - 💼 Contact me ? , [email](mailto:akgupta0777@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
@@ -63,6 +63,8 @@ akgupta0777              36 mins             ██░░░░░░░░░�
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akgupta0777&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=akgupta0777&custom_title=Abhay's%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
@@ -72,8 +74,6 @@ akgupta0777              36 mins             ██░░░░░░░░░�
 4. 💪 Opened PR [#15497](https://github.com/eslint/eslint/pull/15497) in [eslint/eslint](https://github.com/eslint/eslint)
 5. ❗️ Closed issue [#14094](https://github.com/microsoft/PowerToys/issues/14094) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 <!--END_SECTION:activity-->
-
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=akgupta0777&custom_title=Abhay's%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
