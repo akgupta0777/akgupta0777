@@ -36,6 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2029%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -52,7 +53,9 @@ Culture-Interactive      4 hrs 47 mins       ███████████�
 akgupta0777              36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.15%
 
 ```
- Last Updated on 25/01/2022 06:55:45 UTC
+
+
+ Last Updated on 25/01/2022 07:20:41 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
