@@ -36,23 +36,24 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <!--START_SECTION:waka-->
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 49 mins       █████████████████░░░░░░░░   70.75% 
-CSS                      58 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.09% 
-Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.15%
+JavaScript               7 hrs 30 mins       ██████████████████████░░░   91.01% 
+CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.9% 
+HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1%
 
 🐱‍💻 Projects: 
-Culture-Interactive      4 hrs 47 mins       ██████████████████████░░░   88.85% 
-akgupta0777              36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.15%
+Culture-Interactive      7 hrs 59 mins       ████████████████████████░   96.9% 
+ABHAY                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1%
 
 ```
- Last Updated on 25/01/2022 06:55:45 UTC
+
+
+ Last Updated on 26/02/2022 18:44:00 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
@@ -68,11 +69,11 @@ akgupta0777              36 mins             ██░░░░░░░░░�
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#260](https://github.com/anmol098/waka-readme-stats/issues/260) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. ❗️ Opened issue [#260](https://github.com/anmol098/waka-readme-stats/issues/260) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. ❗️ Opened issue [#18896](https://github.com/timburgan/timburgan/issues/18896) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. 💪 Opened PR [#15497](https://github.com/eslint/eslint/pull/15497) in [eslint/eslint](https://github.com/eslint/eslint)
-5. ❗️ Closed issue [#14094](https://github.com/microsoft/PowerToys/issues/14094) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+1. 🗣 Commented on [#17353](https://github.com/mui-org/material-ui/issues/17353) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
+2. 💪 Opened PR [#1](https://github.com/Nikhil-Js6/Forms/pull/1) in [Nikhil-Js6/Forms](https://github.com/Nikhil-Js6/Forms)
+3. 🗣 Commented on [#17353](https://github.com/mui-org/material-ui/issues/17353) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
+4. 🗣 Commented on [#260](https://github.com/anmol098/waka-readme-stats/issues/260) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+5. 🗣 Commented on [#260](https://github.com/anmol098/waka-readme-stats/issues/260) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 
