@@ -63,7 +63,7 @@ akgupta0777              36 mins             ██░░░░░░░░░�
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akgupta0777&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=akgupta0777&custom_title=Abhay's%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-activity-graphs.herokuapp.com/graph?username=akgupta0777&custom_title=Abhay's%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/akgupta0777/github-readme-activity-graph)
 
 **:zap: Recent Activity:**
 
