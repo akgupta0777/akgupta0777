@@ -66,10 +66,10 @@ No Activity Tracked This Week
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17353](https://github.com/mui-org/material-ui/issues/17353) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
-2. 💪 Opened PR [#1](https://github.com/Nikhil-Js6/Forms/pull/1) in [Nikhil-Js6/Forms](https://github.com/Nikhil-Js6/Forms)
-3. 🗣 Commented on [#17353](https://github.com/mui-org/material-ui/issues/17353) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
-4. 🗣 Commented on [#260](https://github.com/anmol098/waka-readme-stats/issues/260) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. ❗️ Opened issue [#31307](https://github.com/mui/material-ui/issues/31307) in [mui/material-ui](https://github.com/mui/material-ui)
+2. 🗣 Commented on [#17353](https://github.com/mui-org/material-ui/issues/17353) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
+3. 💪 Opened PR [#1](https://github.com/Nikhil-Js6/Forms/pull/1) in [Nikhil-Js6/Forms](https://github.com/Nikhil-Js6/Forms)
+4. 🗣 Commented on [#17353](https://github.com/mui-org/material-ui/issues/17353) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
 5. 🗣 Commented on [#260](https://github.com/anmol098/waka-readme-stats/issues/260) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
