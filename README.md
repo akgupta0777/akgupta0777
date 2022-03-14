@@ -66,11 +66,11 @@ No Activity Tracked This Week
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#725](https://github.com/electron/fiddle/issues/725) in [electron/fiddle](https://github.com/electron/fiddle)
-2. 💪 Opened PR [#33262](https://github.com/electron/electron/pull/33262) in [electron/electron](https://github.com/electron/electron)
-3. 💪 Opened PR [#190](https://github.com/electron/electronjs.org-new/pull/190) in [electron/electronjs.org-new](https://github.com/electron/electronjs.org-new)
-4. ❗️ Opened issue [#189](https://github.com/electron/electronjs.org-new/issues/189) in [electron/electronjs.org-new](https://github.com/electron/electronjs.org-new)
-5. ❗️ Closed issue [#31307](https://github.com/mui/material-ui/issues/31307) in [mui/material-ui](https://github.com/mui/material-ui)
+1. 🗣 Commented on [#33262](https://github.com/electron/electron/issues/33262) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#725](https://github.com/electron/fiddle/issues/725) in [electron/fiddle](https://github.com/electron/fiddle)
+3. 💪 Opened PR [#33262](https://github.com/electron/electron/pull/33262) in [electron/electron](https://github.com/electron/electron)
+4. 💪 Opened PR [#190](https://github.com/electron/electronjs.org-new/pull/190) in [electron/electronjs.org-new](https://github.com/electron/electronjs.org-new)
+5. ❗️ Opened issue [#189](https://github.com/electron/electronjs.org-new/issues/189) in [electron/electronjs.org-new](https://github.com/electron/electronjs.org-new)
 <!--END_SECTION:activity-->
 
 
