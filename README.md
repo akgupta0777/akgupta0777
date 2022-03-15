@@ -42,15 +42,21 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs               ████████████████████░░░░░   80.37% 
+TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
+CSS                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.29% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36% 
+LESS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Culture-Interactive      2 hrs 14 mins       ██████████████████████░░░   89.8% 
+fiddle                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
+electron                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
 
- Last Updated on 14/03/2022 18:44:01 UTC
+ Last Updated on 15/03/2022 18:45:30 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
