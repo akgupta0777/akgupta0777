@@ -74,11 +74,11 @@ electron                 0 secs              ░░░░░░░░░░░�
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33262](https://github.com/electron/electron/issues/33262) in [electron/electron](https://github.com/electron/electron)
-2. 💪 Opened PR [#25](https://github.com/electron/fiddle-core/pull/25) in [electron/fiddle-core](https://github.com/electron/fiddle-core)
-3. 🗣 Commented on [#33262](https://github.com/electron/electron/issues/33262) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#725](https://github.com/electron/fiddle/issues/725) in [electron/fiddle](https://github.com/electron/fiddle)
-5. 💪 Opened PR [#33262](https://github.com/electron/electron/pull/33262) in [electron/electron](https://github.com/electron/electron)
+1. ❗️ Opened issue [#189](https://github.com/DulLabs/bhai-lang/issues/189) in [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
+2. 🗣 Commented on [#33262](https://github.com/electron/electron/issues/33262) in [electron/electron](https://github.com/electron/electron)
+3. 💪 Opened PR [#25](https://github.com/electron/fiddle-core/pull/25) in [electron/fiddle-core](https://github.com/electron/fiddle-core)
+4. 🗣 Commented on [#33262](https://github.com/electron/electron/issues/33262) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#725](https://github.com/electron/fiddle/issues/725) in [electron/fiddle](https://github.com/electron/fiddle)
 <!--END_SECTION:activity-->
 
 
