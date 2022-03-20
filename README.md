@@ -75,10 +75,10 @@ electron                 0 secs              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1018](https://github.com/electron/fiddle/issues/1018) in [electron/fiddle](https://github.com/electron/fiddle)
-2. 💪 Opened PR [#1018](https://github.com/electron/fiddle/pull/1018) in [electron/fiddle](https://github.com/electron/fiddle)
-3. 🗣 Commented on [#1007](https://github.com/electron/fiddle/issues/1007) in [electron/fiddle](https://github.com/electron/fiddle)
+2. 🗣 Commented on [#1018](https://github.com/electron/fiddle/issues/1018) in [electron/fiddle](https://github.com/electron/fiddle)
+3. 💪 Opened PR [#1018](https://github.com/electron/fiddle/pull/1018) in [electron/fiddle](https://github.com/electron/fiddle)
 4. 🗣 Commented on [#1007](https://github.com/electron/fiddle/issues/1007) in [electron/fiddle](https://github.com/electron/fiddle)
-5. ❗️ Opened issue [#1016](https://github.com/electron/fiddle/issues/1016) in [electron/fiddle](https://github.com/electron/fiddle)
+5. 🗣 Commented on [#1007](https://github.com/electron/fiddle/issues/1007) in [electron/fiddle](https://github.com/electron/fiddle)
 <!--END_SECTION:activity-->
 
 
