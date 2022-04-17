@@ -42,16 +42,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 7 mins        ███████████████████████░░   92.55% 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.45%
+TypeScript               2 hrs 56 mins       ███████████████████████░░   93.66% 
+JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.34%
 
 🐱‍💻 Projects: 
-fiddle                   4 hrs 27 mins       █████████████████████████   100.0%
+fiddle                   3 hrs 8 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/04/2022 18:46:57 UTC
+ Last Updated on 17/04/2022 18:46:30 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
