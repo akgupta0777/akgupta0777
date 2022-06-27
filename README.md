@@ -44,16 +44,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               13 mins             ████████████████░░░░░░░░░   66.69% 
-Bash                     6 mins              ████████░░░░░░░░░░░░░░░░░   33.31%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-project_fitness_app      20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 26/06/2022 18:45:03 UTC
+ Last Updated on 27/06/2022 18:52:50 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
