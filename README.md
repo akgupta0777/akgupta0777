@@ -36,30 +36,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2053%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-C++                      4 hrs 54 mins       ███████████████████░░░░░░   77.03% 
-Text                     1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.38% 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
-
-🐱‍💻 Projects: 
-Facebook Hacker Cup      5 hrs 21 mins       █████████████████████░░░░   83.91% 
-vscode                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
-v4                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03% 
-ABHAY                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
-
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 
- Last Updated on 03/09/2022 18:48:23 UTC
+ Last Updated on 04/09/2022 18:47:59 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
