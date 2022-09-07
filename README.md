@@ -36,7 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2054%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -44,20 +44,19 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      53 mins             ████████████████████░░░░░   80.67% 
-JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.09% 
-Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.7% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
+C++                      50 mins             █████████████████████░░░░   83.86% 
+JavaScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
 
 🐱‍💻 Projects: 
-vscode                   51 mins             ███████████████████░░░░░░   77.28% 
-v4                       7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
-Facebook Hacker Cup      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.1%
+vscode                   51 mins             █████████████████████░░░░   85.85% 
+v4                       8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.15%
 
 ```
 
 
- Last Updated on 06/09/2022 18:52:11 UTC
+ Last Updated on 07/09/2022 18:52:32 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
