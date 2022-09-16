@@ -36,7 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2011%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -44,22 +44,22 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      5 hrs 16 mins       ██████████████████░░░░░░░   73.64% 
-Text                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
-JSON                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.64% 
+C++                      5 hrs 22 mins       ██████████████████░░░░░░░   73.9% 
+Text                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37% 
+JSON                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.09% 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.57% 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🐱‍💻 Projects: 
-Facebook Hacker Cup      6 hrs 8 mins        █████████████████████░░░░   85.57% 
-YT-Downloader-Server     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
-Meta Global Hackathon    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53% 
+Facebook Hacker Cup      6 hrs 8 mins        █████████████████████░░░░   84.39% 
+YT-Downloader-Server     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
+Meta Global Hackathon    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89% 
 YT-Downloader            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 ```
 
 
- Last Updated on 15/09/2022 18:52:40 UTC
+ Last Updated on 16/09/2022 18:55:46 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
