@@ -36,7 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2047%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -44,22 +44,22 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      5 hrs 22 mins       ██████████████████░░░░░░░   73.9% 
-Text                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37% 
-JSON                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.09% 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.57% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+C++                      6 hrs 27 mins       ██████████████████░░░░░░░   72.83% 
+Text                     1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.73% 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.64% 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🐱‍💻 Projects: 
-Facebook Hacker Cup      6 hrs 8 mins        █████████████████████░░░░   84.39% 
-YT-Downloader-Server     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
-Meta Global Hackathon    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89% 
-YT-Downloader            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+Facebook Hacker Cup      6 hrs 8 mins        █████████████████░░░░░░░░   69.23% 
+Meta Global Hackathon    1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.33% 
+YT-Downloader-Server     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+YT-Downloader            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 ```
 
 
- Last Updated on 16/09/2022 18:55:46 UTC
+ Last Updated on 17/09/2022 18:51:44 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
