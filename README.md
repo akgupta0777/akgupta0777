@@ -36,7 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2046%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -44,22 +44,20 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      2 hrs 10 mins       ██████████████░░░░░░░░░░░   58.79% 
-Text                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
-JSON                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
-JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+C++                      2 hrs 54 mins       ████████████████████░░░░░   82.07% 
+Text                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.67% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🐱‍💻 Projects: 
-Meta Global Hackathon    2 hrs 1 min         █████████████░░░░░░░░░░░░   54.74% 
-YT-Downloader-Server     54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.73% 
-Facebook Hacker Cup      45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.3% 
-YT-Downloader            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+Meta Global Hackathon    2 hrs 47 mins       ███████████████████░░░░░░   78.54% 
+Facebook Hacker Cup      45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.22% 
+YT-Downloader            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
 ```
 
 
- Last Updated on 19/09/2022 18:56:15 UTC
+ Last Updated on 20/09/2022 18:54:33 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
