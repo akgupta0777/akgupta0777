@@ -36,7 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2047%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -44,18 +44,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      2 hrs 43 mins       ████████████████████░░░░░   81.31% 
-Text                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+C++                      2 hrs 8 mins        ████████████████████░░░░░   79.74% 
+Text                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   20.26%
 
 🐱‍💻 Projects: 
-Meta Global Hackathon    2 hrs 47 mins       ████████████████████░░░░░   83.09% 
-Facebook Hacker Cup      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91%
+Meta Global Hackathon    2 hrs 41 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 21/09/2022 18:56:29 UTC
+ Last Updated on 22/09/2022 18:53:54 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
