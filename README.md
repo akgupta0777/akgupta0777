@@ -36,7 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2041%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -44,16 +44,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      4 hrs 59 mins       ██████████████████████░░░   88.14% 
-Text                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86%
+C++                      5 hrs 44 mins       ████████████████████████░   97.25% 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75%
 
 🐱‍💻 Projects: 
-Meta Global Hackathon    5 hrs 39 mins       █████████████████████████   100.0%
+Meta Global Hackathon    5 hrs 54 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 23/09/2022 18:56:59 UTC
+ Last Updated on 24/09/2022 18:52:44 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
