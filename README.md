@@ -36,7 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2056%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -44,18 +44,18 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      8 hrs 58 mins       ████████████████████░░░░░   82.58% 
-Python                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
+C++                      9 hrs 16 mins       ████████████████████░░░░░   83.03% 
+Python                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37%
 
 🐱‍💻 Projects: 
-Meta Global Hackathon    9 hrs 7 mins        █████████████████████░░░░   83.98% 
-Google FooBar            1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.02%
+Meta Global Hackathon    9 hrs 25 mins       █████████████████████░░░░   84.4% 
+Google FooBar            1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.6%
 
 ```
 
 
- Last Updated on 27/09/2022 19:01:16 UTC
+ Last Updated on 28/09/2022 18:59:31 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
