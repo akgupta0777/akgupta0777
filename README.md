@@ -44,18 +44,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      25 mins             █████████░░░░░░░░░░░░░░░░   38.18% 
-HTML                     22 mins             ████████░░░░░░░░░░░░░░░░░   32.95% 
-JavaScript               19 mins             ███████░░░░░░░░░░░░░░░░░░   28.81% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-YT-Downloader            1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 11/10/2022 18:57:57 UTC
+ Last Updated on 12/10/2022 19:00:32 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
