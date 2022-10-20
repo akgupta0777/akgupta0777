@@ -36,7 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%204%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -44,18 +44,21 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      14 mins             ████████████████████░░░░░   81.67% 
-Text                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85%
+C++                      2 hrs 43 mins       █████████████████░░░░░░░░   71.32% 
+HTML                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+JavaScript               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
 
 🐱‍💻 Projects: 
-vscode                   16 mins             ████████████████████████░   97.15% 
-YT-Downloader            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85%
+CRED Hiring Codechef     2 hrs 32 mins       ████████████████░░░░░░░░░   66.56% 
+YT-Downloader            59 mins             ██████░░░░░░░░░░░░░░░░░░░   26.12% 
+vscode                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32%
 
 ```
 
 
- Last Updated on 19/10/2022 19:06:44 UTC
+ Last Updated on 20/10/2022 19:08:15 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
