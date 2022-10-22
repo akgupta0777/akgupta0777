@@ -36,7 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2012%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -44,22 +44,22 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      3 hrs 27 mins       █████████████████░░░░░░░░   70.21% 
-JavaScript               51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.46% 
-HTML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
+C++                      3 hrs 27 mins       █████████████████░░░░░░░░   69.99% 
+JavaScript               51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.4% 
+HTML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
 Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04% 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 🐱‍💻 Projects: 
-CRED Hiring Codechef     3 hrs 16 mins       ████████████████░░░░░░░░░   66.59% 
-YT-Downloader            59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.24% 
-POC for Google Drive     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
-vscode                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.67%
+CRED Hiring Codechef     3 hrs 16 mins       ████████████████░░░░░░░░░   66.38% 
+YT-Downloader            1 hr                █████░░░░░░░░░░░░░░░░░░░░   20.49% 
+POC for Google Drive     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+vscode                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.65%
 
 ```
 
 
- Last Updated on 21/10/2022 19:00:28 UTC
+ Last Updated on 22/10/2022 18:55:18 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
