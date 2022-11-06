@@ -76,8 +76,8 @@ test                     0 secs              ░░░░░░░░░░░�
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/akgupta0777/Portfolio-V2/issues/6) in [akgupta0777/Portfolio-V2](https://github.com/akgupta0777/Portfolio-V2)
-2. 💪 Opened PR [#1026](https://github.com/electron/fiddle/pull/1026) in [electron/fiddle](https://github.com/electron/fiddle)
+1. 🗣 Commented on [#18](https://github.com/mui/mui-x/issues/18) in [mui/mui-x](https://github.com/mui/mui-x)
+2. ❗️ Closed issue [#6](https://github.com/akgupta0777/Portfolio-V2/issues/6) in [akgupta0777/Portfolio-V2](https://github.com/akgupta0777/Portfolio-V2)
 3. ❗️ Opened issue [#1023](https://github.com/electron/fiddle/issues/1023) in [electron/fiddle](https://github.com/electron/fiddle)
 4. 🗣 Commented on [#1018](https://github.com/electron/fiddle/issues/1018) in [electron/fiddle](https://github.com/electron/fiddle)
 5. 🗣 Commented on [#1018](https://github.com/electron/fiddle/issues/1018) in [electron/fiddle](https://github.com/electron/fiddle)
