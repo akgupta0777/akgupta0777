@@ -76,9 +76,9 @@ Sample React             0 secs              ░░░░░░░░░░░�
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/mui/mui-x/issues/18) in [mui/mui-x](https://github.com/mui/mui-x)
-2. ❗️ Closed issue [#6](https://github.com/akgupta0777/Portfolio-V2/issues/6) in [akgupta0777/Portfolio-V2](https://github.com/akgupta0777/Portfolio-V2)
-3. ❗️ Opened issue [#1023](https://github.com/electron/fiddle/issues/1023) in [electron/fiddle](https://github.com/electron/fiddle)
+1. ❗️ Opened issue [#3682](https://github.com/jaredpalmer/formik/issues/3682) in [jaredpalmer/formik](https://github.com/jaredpalmer/formik)
+2. 🗣 Commented on [#18](https://github.com/mui/mui-x/issues/18) in [mui/mui-x](https://github.com/mui/mui-x)
+3. ❗️ Closed issue [#6](https://github.com/akgupta0777/Portfolio-V2/issues/6) in [akgupta0777/Portfolio-V2](https://github.com/akgupta0777/Portfolio-V2)
 4. 🗣 Commented on [#1018](https://github.com/electron/fiddle/issues/1018) in [electron/fiddle](https://github.com/electron/fiddle)
 5. 🗣 Commented on [#1018](https://github.com/electron/fiddle/issues/1018) in [electron/fiddle](https://github.com/electron/fiddle)
 <!--END_SECTION:activity-->
