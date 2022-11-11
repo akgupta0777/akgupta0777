@@ -36,7 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2050%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -44,24 +44,22 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               11 hrs 55 mins      ███████████████████████░░   92.34% 
-JavaScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.8% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
+TypeScript               6 hrs 56 mins       ██████████████████████░░░   87.6% 
+JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31% 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🐱‍💻 Projects: 
-resvue                   12 hrs 10 mins      ███████████████████████░░   94.23% 
-Culture-Interactive-MVP  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.72% 
-Sample React             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+resvue                   7 hrs 11 mins       ██████████████████████░░░   90.67% 
+Culture-Interactive-MVP  44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.33%
 
 💻 Operating System: 
-Windows                  12 hrs 54 mins      █████████████████████████   100.0%
+Windows                  7 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 10/11/2022 18:49:22 UTC
+ Last Updated on 11/11/2022 18:50:15 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
