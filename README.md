@@ -37,7 +37,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><p>And many more...</p></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2046%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,21 +45,23 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 13 mins       █████████████████████░░░░   87.44% 
-C++                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+TypeScript               5 hrs 31 mins       ██████████████████████░░░   88.15% 
+C++                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
+Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.63% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 🐱‍💻 Projects: 
-resvue                   5 hrs 13 mins       █████████████████████░░░░   87.44% 
-6Companies30days         45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56%
+resvue                   5 hrs 31 mins       ██████████████████████░░░   88.15% 
+6Companies30days         23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
+Indian-Railways-Automated21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.63%
 
 💻 Operating System: 
-Windows                  5 hrs 58 mins       █████████████████████████   100.0%
+Windows                  6 hrs 16 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 18/01/2023 18:42:01 UTC
+ Last Updated on 19/01/2023 18:42:21 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
