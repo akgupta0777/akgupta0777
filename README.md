@@ -72,7 +72,7 @@ Windows                  6 hrs 16 mins       ███████████�
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akgupta0777&show_icons=true&theme=gotham" alt="akgupta0777" />
 
-[![Please reload page for activity graph](https://github-activity-graphs.herokuapp.com/graph?username=akgupta0777&custom_title=Abhay's%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/akgupta0777/github-readme-activity-graph)
+[![Please reload page for activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akgupta0777&custom_title=Abhay's%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/akgupta0777/github-readme-activity-graph)
 
 **:zap: Recent Activity:**
 
