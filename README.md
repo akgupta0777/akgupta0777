@@ -37,7 +37,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><p>And many more...</p></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2026%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,22 +45,20 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 26 mins       █████████████████████░░░░   83.62 % 
-C++                      28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+TypeScript               2 hrs 26 mins       ████████████████████████░   97.83 % 
+C++                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🐱‍💻 Projects: 
-resvue                   2 hrs 26 mins       █████████████████████░░░░   83.62 % 
-Competetions             27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-6Companies30days         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+resvue                   2 hrs 26 mins       ████████████████████████░   97.83 % 
+6Companies30days         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 💻 Operating System: 
-Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 14/02/2023 18:43:05 UTC
+ Last Updated on 15/02/2023 18:43:18 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
