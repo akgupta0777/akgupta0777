@@ -45,18 +45,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 3 mins              ██████████████████░░░░░░░   71.22 % 
-C++                      1 min               ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-6Companies30days         5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/03/2023 18:39:07 UTC
+ Last Updated on 25/03/2023 18:36:52 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
