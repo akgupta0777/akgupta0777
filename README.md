@@ -37,7 +37,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><p>And many more...</p></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2038%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,17 +45,20 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      6 mins              █████████████████████████   100.00 % 
+Python                   11 mins             ████████████░░░░░░░░░░░░░   48.23 % 
+JSON                     6 mins              ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+C++                      6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
 
 🐱‍💻 Projects: 
-6Companies30days         6 mins              █████████████████████████   100.00 % 
+Microsoft-Rewards-bot-GUI17 mins             ███████████████████░░░░░░   74.84 % 
+6Companies30days         6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/04/2023 18:38:10 UTC
+ Last Updated on 04/04/2023 18:37:06 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
