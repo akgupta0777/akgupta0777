@@ -37,7 +37,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><p>And many more...</p></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2048%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,20 +45,23 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   11 mins             ████████████████░░░░░░░░░   63.90 % 
-JSON                     6 mins              █████████░░░░░░░░░░░░░░░░   35.26 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Python                   11 mins             ██████████░░░░░░░░░░░░░░░   41.75 % 
+TypeScript               9 mins              ████████░░░░░░░░░░░░░░░░░   33.62 % 
+JSON                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🐱‍💻 Projects: 
-Microsoft-Rewards-bot-GUI17 mins             █████████████████████████   99.16 % 
-lambdatest_selenium_test_0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Microsoft-Rewards-bot-GUI17 mins             ████████████████░░░░░░░░░   64.79 % 
+resvue                   9 mins              █████████░░░░░░░░░░░░░░░░   34.66 % 
+lambdatest_selenium_test_0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/04/2023 18:37:02 UTC
+ Last Updated on 08/04/2023 18:36:45 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
