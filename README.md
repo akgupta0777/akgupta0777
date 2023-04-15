@@ -45,18 +45,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               9 mins              ████████████████████████░   97.02 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-resvue                   9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/04/2023 18:37:09 UTC
+ Last Updated on 15/04/2023 18:36:56 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
