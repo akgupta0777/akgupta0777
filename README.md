@@ -76,8 +76,8 @@ Windows                  1 hr 41 mins        ███████████�
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#72](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/72) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
-2. ❗️ Opened issue [#3682](https://github.com/jaredpalmer/formik/issues/3682) in [jaredpalmer/formik](https://github.com/jaredpalmer/formik)
+1. 🗣 Commented on [#72](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/72) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
+2. ❗️ Opened issue [#72](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/72) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
 3. 🗣 Commented on [#18](https://github.com/mui/mui-x/issues/18) in [mui/mui-x](https://github.com/mui/mui-x)
 4. ❗️ Closed issue [#6](https://github.com/akgupta0777/Portfolio-V2/issues/6) in [akgupta0777/Portfolio-V2](https://github.com/akgupta0777/Portfolio-V2)
 5. 🗣 Commented on [#1018](https://github.com/electron/fiddle/issues/1018) in [electron/fiddle](https://github.com/electron/fiddle)
