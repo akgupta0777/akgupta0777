@@ -75,11 +75,11 @@ Windows                  29 mins             ███████████�
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AlloryDante/Microsoft-Rewards-Bot/pull/1) in [AlloryDante/Microsoft-Rewards-Bot](https://github.com/AlloryDante/Microsoft-Rewards-Bot)
-2. ❗️ Closed issue [#82](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/82) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
-3. 🗣 Commented on [#82](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/82) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
-4. ❗️ Opened issue [#82](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/82) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
-5. 🗣 Commented on [#72](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/72) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
+1. ❗️ Closed issue [#82](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/82) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
+2. 🗣 Commented on [#82](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/82) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
+3. ❗️ Opened issue [#82](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/82) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
+4. 🗣 Commented on [#72](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/72) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
+5. ❗️ Closed issue [#72](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/72) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
 <!--END_SECTION:activity-->
 
 
