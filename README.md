@@ -45,17 +45,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 1 min          █████████████████████████   100.00 % 
+Python                   54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Microsoft-Rewards-bot-GUI1 hr 1 min          █████████████████████████   100.00 % 
+Microsoft-Rewards-bot-GUI54 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/05/2023 18:36:49 UTC
+ Last Updated on 23/05/2023 18:36:57 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
