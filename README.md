@@ -37,7 +37,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><p>And many more...</p></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2057%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,20 +45,22 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 14 mins       ████████████████████████░   97.80 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+JavaScript               3 hrs 14 mins       ███████████████████████░░   93.99 % 
+Batchfile                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-matrix-rewards-win       2 hrs 17 mins       █████████████████████████   100.00 % 
+matrix-rewards-win       2 hrs 17 mins       █████████████████░░░░░░░░   66.32 % 
+matrix-rewards-win (1)   1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   33.68 % 
 
 💻 Operating System: 
-Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/05/2023 18:36:49 UTC
+ Last Updated on 27/05/2023 18:37:07 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
