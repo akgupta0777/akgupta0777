@@ -71,10 +71,10 @@ Windows                  1 hr                ███████████�
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/98) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
+1. 🗣 Commented on [#98](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/98#issuecomment-1547573323) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
 2. ❗ Opened issue [#98](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/98) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
 3. 🔒 Closed issue [#82](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/82) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
-4. 🗣 Commented on [#82](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/82) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
+4. 🗣 Commented on [#82](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/82#issuecomment-1528756591) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
 5. ❗ Opened issue [#82](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/82) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
 <!--END_SECTION:activity-->
 
