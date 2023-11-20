@@ -71,15 +71,15 @@ Windows                  2 hrs 53 mins       ███████████�
 
 [![Please reload page for activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akgupta0777&custom_title=Abhay's%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/akgupta0777/github-readme-activity-graph)
 
-**:zap: Recent Activity:**
+<!-- **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/98#issuecomment-1547573323) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
+<!-- 1. 🗣 Commented on [#98](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/98#issuecomment-1547573323) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
 2. ❗ Opened issue [#98](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/98) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
 3. 🔒 Closed issue [#82](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/82) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
 4. 🗣 Commented on [#82](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/82#issuecomment-1528756591) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
 5. ❗ Opened issue [#82](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2/issues/82) in [farshadz1997/Microsoft-Rewards-bot-GUI-V2](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2)
-<!--END_SECTION:activity-->
+END_SECTION:activity --> -->
 
 
 
