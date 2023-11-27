@@ -37,7 +37,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><p>And many more...</p></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2034%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,19 +45,19 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 2 mins        █████████████████████████   99.97 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JavaScript               29 mins             █████████████████████████   99.79 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-TopG-Bot                 3 hrs 2 mins        █████████████████████████   99.97 % 
-akgupta0777              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TopG-Bot                 29 mins             █████████████████████████   99.79 % 
+akgupta0777              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  3 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/11/2023 18:36:55 UTC
+ Last Updated on 27/11/2023 18:36:52 UTC
 <!--END_SECTION:waka-->
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
