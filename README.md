@@ -1,9 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/akgupta0777">
-  <img align="left" alt="Abhay Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" />
+  <img align="left" alt="Abhay Gupta | Twitter" width="22px" src="https://cdn.simpleicons.org/x" />
 </a>
 <a href="https://www.linkedin.com/in/abhay-gupta-88bb67188/">
-  <img align="left" alt="Abhay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhay's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=akgupta0777.akgupta0777)
@@ -60,16 +60,16 @@ Windows                  2 hrs 53 mins       ███████████�
 
  Last Updated on 19/11/2023 18:36:47 UTC
 <!--END_SECTION:waka-->
-
+<!-- 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/akgupta0777" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/akgupta0777" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 📈 **My Github Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akgupta0777&show_icons=true&theme=gotham" alt="akgupta0777" />
 
-[![Please reload page for activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akgupta0777&custom_title=Abhay's%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/akgupta0777/github-readme-activity-graph)
+<!-- [![Please reload page for activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akgupta0777&custom_title=Abhay's%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/akgupta0777/github-readme-activity-graph) -->
 
 <!-- **:zap: Recent Activity:**
 
