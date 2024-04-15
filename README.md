@@ -37,6 +37,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><p>And many more...</p></code>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2025%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -54,7 +56,7 @@ Windows                  1 hr 1 min          ███████████�
 ```
 
 
- Last Updated on 14/04/2024 22:57:16 UTC
+ Last Updated on 15/04/2024 18:37:40 UTC
 <!--END_SECTION:waka-->
 <!-- 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
