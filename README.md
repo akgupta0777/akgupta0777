@@ -37,7 +37,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><p>And many more...</p></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%203%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,21 +45,21 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 6 mins        ███████████████████████░░   93.00 % 
-JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+JavaScript               3 hrs 8 mins        ███████████████████████░░   93.07 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-Harsh-Okto               2 hrs 40 mins       ████████████████████░░░░░   79.67 % 
-TopG-Bot                 40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Harsh-Okto               2 hrs 40 mins       ████████████████████░░░░░   78.87 % 
+TopG-Bot                 42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
 
 💻 Operating System: 
-Windows                  3 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/11/2024 18:43:50 UTC
+ Last Updated on 07/11/2024 18:43:13 UTC
 <!--END_SECTION:waka-->
 <!-- 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
