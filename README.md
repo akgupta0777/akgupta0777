@@ -45,17 +45,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 11 mins        █████████████████████████   100.00 % 
+JavaScript               12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TopG-Bot                 1 hr 11 mins        █████████████████████████   100.00 % 
+TopG-Bot                 12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/12/2024 18:48:02 UTC
+ Last Updated on 13/12/2024 18:46:58 UTC
 <!--END_SECTION:waka-->
 <!-- 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
