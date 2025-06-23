@@ -45,21 +45,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 54 mins        ██████████████████████░░░   87.75 % 
-Bash                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MicroFE                  2 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/06/2025 18:47:44 UTC
+ Last Updated on 23/06/2025 18:51:13 UTC
 <!--END_SECTION:waka-->
 <!-- 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
