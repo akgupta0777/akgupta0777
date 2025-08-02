@@ -45,21 +45,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      4 mins              ██████████████████░░░░░░░   71.76 % 
-YAML                     1 min               █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-codecrafters-kafka-cpp   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/08/2025 18:54:37 UTC
+ Last Updated on 02/08/2025 18:51:55 UTC
 <!--END_SECTION:waka-->
 <!-- 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
