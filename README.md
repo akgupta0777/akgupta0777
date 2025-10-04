@@ -37,8 +37,29 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><p>And many more...</p></code>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2010%20mins-blue)
 
- Last Updated on 03/10/2025 18:46:31 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 13 mins             █████████████████░░░░░░░░   67.02 % 
+JavaScript               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Text                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+
+🐱‍💻 Projects: 
+nodejs-npm-starter-kit   20 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  20 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 04/10/2025 18:43:47 UTC
 <!--END_SECTION:waka-->
 <!-- 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
