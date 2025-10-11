@@ -45,21 +45,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 13 mins             █████████████████░░░░░░░░   67.02 % 
-JavaScript               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Text                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nodejs-npm-starter-kit   20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/10/2025 18:46:56 UTC
+ Last Updated on 11/10/2025 18:41:39 UTC
 <!--END_SECTION:waka-->
 <!-- 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
