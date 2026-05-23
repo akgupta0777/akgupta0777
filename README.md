@@ -37,24 +37,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><p>And many more...</p></code>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   19 mins             ████████████████████████░   94.01 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-
-🐱‍💻 Projects: 
-test                     20 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/05/2026 20:19:14 UTC
+ Last Updated on 23/05/2026 19:44:16 UTC
 <!--END_SECTION:waka-->
 <!-- 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
