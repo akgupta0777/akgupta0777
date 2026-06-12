@@ -45,22 +45,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   53 mins             ██████████████░░░░░░░░░░░   54.56 % 
-Text                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CodeSense                1 hr 12 mins        ██████████████████░░░░░░░   73.31 % 
-zomato-intelligence      26 mins             ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/06/2026 21:00:01 UTC
+ Last Updated on 12/06/2026 20:35:15 UTC
 <!--END_SECTION:waka-->
 <!-- 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
