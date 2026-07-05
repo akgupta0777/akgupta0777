@@ -37,7 +37,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><p>And many more...</p></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2059%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,23 +45,22 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   9 mins              ██████████████████░░░░░░░   71.33 % 
-Other                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Python                   42 mins             █████████████████████░░░░   84.58 % 
+TOML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🐱‍💻 Projects: 
-CodeRAG                  7 mins              ██████████████░░░░░░░░░░░   56.28 % 
-zomato-intelligence      3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-CodeSense                2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+CodeSense                34 mins             █████████████████░░░░░░░░   69.64 % 
+CodeRAG                  15 mins             ████████░░░░░░░░░░░░░░░░░   30.36 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  50 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/07/2026 19:44:17 UTC
+ Last Updated on 05/07/2026 19:51:07 UTC
 <!--END_SECTION:waka-->
 <!-- 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
