@@ -37,7 +37,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><p>And many more...</p></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2053%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,22 +45,22 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   42 mins             █████████████████████░░░░   84.58 % 
-TOML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Python                   2 hrs 36 mins       ████████████████████████░   95.30 % 
+TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-CodeSense                34 mins             █████████████████░░░░░░░░   69.64 % 
-CodeRAG                  15 mins             ████████░░░░░░░░░░░░░░░░░   30.36 % 
+CodeSense                2 hrs 28 mins       ███████████████████████░░   90.74 % 
+CodeRAG                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/07/2026 19:51:07 UTC
+ Last Updated on 06/07/2026 20:24:51 UTC
 <!--END_SECTION:waka-->
 <!-- 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
