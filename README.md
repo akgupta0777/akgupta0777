@@ -37,7 +37,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><p>And many more...</p></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%201%20min-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,22 +45,20 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 36 mins       ████████████████████████░   95.30 % 
-TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python                   2 hrs 37 mins       ████████████████████████░   95.01 % 
+TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-CodeSense                2 hrs 28 mins       ███████████████████████░░   90.74 % 
-CodeRAG                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+CodeSense                2 hrs 34 mins       ███████████████████████░░   92.84 % 
+CodeRAG                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 
 💻 Operating System: 
-Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/07/2026 20:24:51 UTC
+ Last Updated on 07/07/2026 20:25:17 UTC
 <!--END_SECTION:waka-->
 <!-- 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
