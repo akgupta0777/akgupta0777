@@ -45,15 +45,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   59 mins             ████████████████████░░░░░   81.11 % 
-Text                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Python                   51 mins             ████████████████████████░   97.60 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🐱‍💻 Projects: 
-CodeSense                50 mins             █████████████████░░░░░░░░   68.48 % 
-CodeRAG                  23 mins             ████████░░░░░░░░░░░░░░░░░   31.52 % 
+CodeSense                28 mins             █████████████░░░░░░░░░░░░   53.54 % 
+CodeRAG                  24 mins             ████████████░░░░░░░░░░░░░   46.46 % 
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+Windows                  52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -63,7 +63,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 01/09/2026 21:13:30 UTC
+ Last Updated on 02/09/2026 21:11:56 UTC
 <!--END_SECTION:waka-->
 <!-- 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
