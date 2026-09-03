@@ -37,7 +37,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><p>And many more...</p></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2013%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,15 +45,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   51 mins             ████████████████████████░   97.60 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Python                   1 hr 5 mins         █████████████████████████   98.10 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🐱‍💻 Projects: 
-CodeSense                28 mins             █████████████░░░░░░░░░░░░   53.54 % 
-CodeRAG                  24 mins             ████████████░░░░░░░░░░░░░   46.46 % 
+CodeSense                42 mins             ████████████████░░░░░░░░░   63.24 % 
+CodeRAG                  24 mins             █████████░░░░░░░░░░░░░░░░   36.76 % 
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -63,7 +63,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 02/09/2026 21:11:56 UTC
+ Last Updated on 03/09/2026 21:14:08 UTC
 <!--END_SECTION:waka-->
 <!-- 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
